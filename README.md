@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**sk1goog/sk1goog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 About Me  
 
-Here are some ideas to get you started:
+Hi, I'm Steffen! I'm a beginner in **Python development** and **Machine Learning**, eager to learn and improve my skills. I enjoy working on algorithms and problem-solving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻 My Interests  
+- Python Development  
+- Machine Learning & AI  
+- Algorithm Optimization  
+
+### 🚀 Current Project  
+- **Rubik’s Cube Solver** – Learning how to improve algorithm performance and efficiency  
+
+### 📫 Get in Touch  
+I'm always open to learning new things and connecting with other developers. Feel free to check out my projects here on GitHub!  
 -->
